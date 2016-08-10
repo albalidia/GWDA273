@@ -1,0 +1,31 @@
+header {
+	font-family: "bickham-script-pro-3",sans-serif;
+	font-size: 100px;
+	font-color: #022D58;
+	text-align: center;
+	text-shadow: 2px 2px 8px #6A7785;
+}
+
+
+h1 { 
+color:#022D58;
+font-size: 70px;
+font-family: "bickham-script-pro-3",sans-serif;
+text-align: center;
+ text-shadow: 2px 2px 8px #6A7785;
+}
+
+p {
+	color: #011B35;
+	font-size: 50px;
+	font-family: "lakeside",sans-serif;
+	text-align: center;
+	background: rgba(76, 175, 80, 0.3) /* #FCEFD8 background with 30% opacity */
+}
+
+h2 {
+	color: #022D58;
+	font-family: "bickham-script-pro-3",sans-serif;
+	font-size: 30x;
+	text-align: center;
+}
